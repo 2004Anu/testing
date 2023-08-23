@@ -4,6 +4,7 @@ class addition {
         int b = 30;
         int c = a + b;
         System.out.println("sum = " + c);
+        System.out.println("Github is a mess");
 
     }
 }
